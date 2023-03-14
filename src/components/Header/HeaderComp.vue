@@ -1,6 +1,6 @@
 <template>
     <div class="bg-green">
-        <router-link to="/"><p class="logo">Gruzincommerce</p></router-link>
+        <router-link to="/"><p class="logo">Ecommerce</p></router-link>
         <div class="reg-log">
        <router-link to="/cart"><p>Cart <span>{{ getProductLength }}</span></p></router-link>
         </div>
