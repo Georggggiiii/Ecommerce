@@ -11,6 +11,7 @@
             <button class="delete-button" @click="sendId">Delete</button>
             </div>
             </div>
+            <hr>
       </template>
     
     <script>
@@ -39,6 +40,7 @@
       .product {
         display:flex;
         margin-top:50px;
+        flex-wrap:wrap;
       }
       .image img {
       width:150px;

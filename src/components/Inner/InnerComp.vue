@@ -82,6 +82,7 @@ export default {
   <style scoped>
 .product {
     display:flex;
+    flex-wrap:wrap;
     justify-content:center;
     margin-top:100px;
 }
