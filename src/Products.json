@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "title": "Box T-shirt",
+        "desc": "This black Our Legacy New Box cotton T-shirt is cut with a crew neck, short sleeves and loose, relaxed fit. We've always thought of ourselves as anything but basic, but when it comes to an Our Legacy tee, we'll make an exception.",
+        "price": 132,
+        "url": "https://cdn-images.farfetch-contents.com/14/50/90/78/14509078_26648919_1000.jpg"
+    },
+    {
+        "id":2,
+        "title": "Borrowed long-sleeved shirt",
+        "desc": "Coined the 'Borrowed' shirt due to its worn-in feel, Our Legacy presents this long-sleeved shirt in a relaxed, slouchy silhouette. Woven from a soft cotton blend, this iteration arrives in a pink-toned plaid pattern.",
+        "price": 331,
+        "url": "https://cdn-images.farfetch-contents.com/19/82/27/91/19822791_44479980_1000.jpg"
+    },
+    {
+        "id":3,
+        "title": "Gilmore check shirt",
+        "desc": "Produced in an Italian viscose and cotton blend checked fabric, this long-sleeve shirt from Our Legacy shows the brand's Scandinavian cool style. Its design has a slightly oversized cut and is enhanced with mother of pearl buttons.",
+        "price": 278,
+        "url": "https://cdn-images.farfetch-contents.com/18/64/04/86/18640486_42171401_1000.jpg"
+    },
+    {
+        "id":4,
+        "title": "Elder checked short-sleeve shirt",
+        "desc": "Reimagined for SS23 in a beige iteration, Our Legacy's Elder shirt is crafted from a crisp lightweight blend of linen and elevated with a subtle check pattern throughout - a nod to the brand's penchant for understated and streetwear-inspired designs.",
+        "price": 267,
+        "url": "https://cdn-images.farfetch-contents.com/18/83/21/33/18832133_43868095_1000.jpg"
+    },
+    {
+        "id":5,
+        "title": "high-shine biker jacket",
+        "desc": "high-shine biker jacket from OUR LEGACY featuring black, leather, high-shine finish, classic collar, off-centre front zip fastening, zip detail, long sleeves and straight hem.",
+        "price": 1843,
+        "url": "https://cdn-images.farfetch-contents.com/18/51/98/81/18519881_40198004_1000.jpg"
+    },
+    {
+        "id":6,
+        "title": "Third Cut iridescent foil jeans",
+        "desc": "Crafted in a free-spirited wide-leg silhouette, these Third Cut jeans from Our Legacy emphasise their eccentric character through the all-over iridescent foiled finish.",
+        "price": 1843,
+        "url": "https://cdn-images.farfetch-contents.com/19/84/32/84/19843284_44596154_1000.jpg"
+    },
+    {
+        "id":7,
+        "title": "button-up shirt jacket",
+        "desc": "You know that jacket you can always rely on? Crafted from black cotton so you can wear it with anything, this shirt jacket will add a casual touch to your outfits. Where will this Our Legacy piece take you?",
+        "price": 288,
+        "url": "https://cdn-images.farfetch-contents.com/16/13/52/41/16135241_33564263_1000.jpg"
+    },
+    {
+        "id":8,
+        "title": "panelled ankle boots",
+        "desc": "Our Legacy's ankle boots are designed with comfort in mind. Set on sturdy rubber soles, this panelled iteration is lined with plush shearling.",
+        "price": 543,
+        "url": "https://cdn-images.farfetch-contents.com/16/77/70/49/16777049_37113655_1000.jpg"
+    },
+    {
+        "id":9,
+        "title": "Borrowed BD long-sleeve shirt",
+        "desc": "Our Legacy updates its signature Borrowed BD shirt in a fluid cotton blend fabrication. The lightweight design is rendered in the brand's Columbia check pattern, while the dropped shoulder seams add to its relaxed feel.",
+        "price": 288,
+        "url": "https://cdn-images.farfetch-contents.com/19/61/57/21/19615721_43885383_1000.jpg"
+    },
+    {
+        "id":10,
+        "title": "Duffel single-breasted parka",
+        "desc": "Effortless in style, the Duffel parka from Our Legacy is designed for a relaxed fit. Imagined in a moss green hue, this piece boasts a classic hood and leather buttons that are designed to distress over time and develop a unique patina with wear.",
+        "price": 866,
+        "url": "https://cdn-images.farfetch-contents.com/18/64/31/89/18643189_42503149_1000.jpg"
+    }
+]
